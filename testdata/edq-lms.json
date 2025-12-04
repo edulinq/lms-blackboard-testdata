@@ -1,0 +1,7 @@
+{
+    "server": "https://localhost",
+    "backend_type": "blackboard",
+    "auth_user": "course-owner@test.edulinq.org",
+    "auth_password": "course-owner",
+    "course": "Course 101"
+}
